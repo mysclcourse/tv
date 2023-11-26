@@ -51,7 +51,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150101553667_62.png" group-title="广东频道",广东大湾区卫视1
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/南方卫视.png" group-title="广东频道",广东大湾区卫视1
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150101553667_62.png" group-title="广东频道",广东大湾区卫视2
 https://php.17186.eu.org/gdtv/web/gdgj.m3u8
@@ -67,6 +67,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
 https://php.17186.eu.org/gdtv/web/gdws.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视3
 https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视4
+https://epg.pw/stream/aff16c21768db1d338b768ad24bd76dd3faaa45a34844f5928b0de29d7d5ace2.m3u8
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东频道.png" group-title="广东频道",广东新闻
 https://php.17186.eu.org/gdtv/web/gdxw.m3u8
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生
