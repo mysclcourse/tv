@@ -95,9 +95,9 @@ https://epg.pw/stream/d26840de961946e7425e433195853c3e8fc5797fbaf2944b4d1a9ddaa1
 https://php.17186.eu.org/gdtv/web/gdys.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台1
-http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=29bc9394bcccd8df02a01fa59952fccc&u=freeuser&p=8&pid=&cid=&d=29bc9394bcccd8df02a01fa59952fccc&sid=0smfzLJPwQt31nbZyWV98A==&r=20240110171322&e=20240111171327&nc=b2bgGUkbKv1e&a=7&v=2
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台2
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港
