@@ -135,9 +135,6 @@ http://ci.emdoor.tech:8080/touchtv.php?pk=1185
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生2
 http://116.25.242.161:18888/udp/239.77.0.225:5146
 
-#EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生3
-http://113.87.225.31:5000/udp/239.77.0.225:5146
-
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教1
 http://ci.emdoor.tech:8080/touchtv.php?pk=1196
 
