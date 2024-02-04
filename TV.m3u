@@ -133,7 +133,7 @@ http://113.87.225.31:5000/udp/239.77.0.173:5146
 http://ci.emdoor.tech:8080/touchtv.php?pk=1185
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生2
-http://116.25.248.239:8888/udp/239.77.0.225:5146
+http://116.25.242.161:18888/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生3
 http://113.87.225.31:5000/udp/239.77.0.225:5146
@@ -167,16 +167,16 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻2
 http://live.cooltv.top/tv/tvb.php?id=0
 
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯1
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯1
 http://175.9.141.88:8888/udp/239.76.246.8:1234
 
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯2
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文1
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文1
 http://175.9.141.88:8888/udp/239.76.246.7:1234
 
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文2
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文2
 http://113.117.74.142:8081/hls/37/index.m3u8
 
 
