@@ -153,7 +153,7 @@ http://14.216.233.242:8888/udp/239.77.0.11:5146
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台2
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://119.34.189.27:33333/udp/224.1.100.121:11111
 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻1
 http://live.cooltv.top/tv/tvb.php?id=0&hq
