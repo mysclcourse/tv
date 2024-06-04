@@ -1,10 +1,26 @@
-old_ip_address_1= '113.67.164.93:8889'
-old_ip_address_2= '119.131.240.46:8000'
-new_ip_address_1 = '8.8.8.8:8000'
-new_ip_address_2 = '8.8.8.9:8000'
+filename_new = r"C:\Users\NAME\Desktop\new.txt"
 
-with open('test.txt', 'r', encoding='utf-8') as old_file:
-    with open('test-new.txt', 'w', encoding='utf-8') as new_file:
+with open(filename_new, 'r') as file:
+    lines = file.readlines()
+
+# 假设文件中有两行IP地址
+if len(lines) >= 2:
+    new_ip_address_1 = lines[0].strip()  # 第一行IP地址
+    new_ip_address_2 = lines[1].strip()  # 第二行IP地址
+
+filename_old = r"C:\Users\NAME\Desktop\old.txt"
+
+with open(filename_old, 'r') as file:
+    lines = file.readlines()
+
+# 假设文件中有两行IP地址
+if len(lines) >= 2:
+    old_ip_address_1 = lines[0].strip()  # 第一行IP地址
+    old_ip_address_2 = lines[1].strip()  # 第二行IP地址
+
+
+with open(r"C:\Users\NAME\Desktop\TV.txt", 'r', encoding='utf-8') as old_file:
+    with open(r"C:\Users\NAME\Desktop\TV-new.txt", 'w', encoding='utf-8') as new_file:
         for line in old_file:
             line = line.strip()  # 去除行尾换行符
             if old_ip_address_1 in line:
