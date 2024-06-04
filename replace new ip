@@ -1,10 +1,14 @@
-old_ip_address = '113.67.164.93:8889'
-new_ip_address = '8.8.8.8:8000'
+old_ip_address_1= '113.67.164.93:8889'
+old_ip_address_2= '119.131.240.46:8000'
+new_ip_address_1 = '8.8.8.8:8000'
+new_ip_address_2 = '8.8.8.9:8000'
 
 with open('test.txt', 'r', encoding='utf-8') as old_file:
     with open('test-new.txt', 'w', encoding='utf-8') as new_file:
         for line in old_file:
             line = line.strip()  # 去除行尾换行符
-            if old_ip_address in line:
-                line = line.replace(old_ip_address, new_ip_address)
+            if old_ip_address_1 in line:
+                line = line.replace(old_ip_address_1, new_ip_address_1)
+            if old_ip_address_2 in line:
+                line = line.replace(old_ip_address_2, new_ip_address_2)
             new_file.write(line + '\n')
