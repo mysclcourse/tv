@@ -26,7 +26,7 @@ def write_to_file(filename, data):
 
 url = "https://fofa.info/result?qbase64=cmVnaW9uPSJHdWFuZ2RvbmciICYmIGNpdHk9Ikd1YW5nemhvdSIgJiYgc2VydmVyPSJ1ZHB4eSIg"
 class_name = "hsxa-host"
-filename = r"C:\Users\name\Desktop\temp.txt"
+filename = r"C:\Users\NAME\Desktop\new.txt"
 
 result = find_class_info(url, class_name)
 
