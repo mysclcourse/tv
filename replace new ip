@@ -28,3 +28,6 @@ with open(r"C:\Users\NAME\Desktop\TV.txt", 'r', encoding='utf-8') as old_file:
             if old_ip_address_2 in line:
                 line = line.replace(old_ip_address_2, new_ip_address_2)
             new_file.write(line + '\n')
+
+with open(filename_old, 'w') as file:
+    file.write(f"{new_ip_address_1}"+"\n" +f"{new_ip_address_2}")
