@@ -1,0 +1,19 @@
+filename = r"C:\Users\NAME\Desktop\IP.txt"
+old_ip_address_1= '113.67.164.93:8889'
+old_ip_address_2= '119.131.240.46:8000'
+old_ip_address_3= '119.131.240.46:8000'
+new_ip_address_1 = first_class_info
+new_ip_address_2 = second_class_info
+new_ip_address_3 = third_class_info
+
+with open(filename, 'r', encoding='utf-8') as old_file:
+    with open(filename, 'w', encoding='utf-8') as new_file:
+        for line in old_file:
+            line = line.strip()  # 去除行尾换行符
+            if old_ip_address_1 in line:
+                line = line.replace(old_ip_address_1, new_ip_address_1)
+            if old_ip_address_2 in line:
+                line = line.replace(old_ip_address_2, new_ip_address_2)
+            if old_ip_address_3 in line:
+                line = line.replace(old_ip_address_3, new_ip_address_3)
+            new_file.write(line + '\n')
