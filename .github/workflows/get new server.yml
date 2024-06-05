@@ -3,7 +3,7 @@ name: update new server ip
 on:
   push:
 
-jobs:
+jobs: capture new ip:
   build:
     runs-on: windows-lates
 
@@ -21,7 +21,7 @@ jobs:
               
       - name: Read File
         run: |
-          cat path/to/file.txt
+          cat tv/old.m3u
 
       - name: 提交更改
         run: |
