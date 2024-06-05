@@ -1,0 +1,9 @@
+name: get new server
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    -name:
