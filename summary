@@ -11,71 +11,29 @@ def find_class_info(url, class_name):
             first_class_info = class_elements[0].text.strip()  # Remove leading and trailing spaces or newlines
             second_class_info = class_elements[1].text.strip()  # Remove leading and trailing spaces or newlines
             third_class_info = class_elements[2].text.strip()  # Remove leading and trailing spaces or newlines
-            return first_class_info, second_class_info, third_class_info
-        #else:
-            #return f"Less than two elements with class name '{class_name}' found"
     except requests.RequestException as e:
         return f"An error occurred: {e}"
 
-#def write_to_file(filename, data):
-    #try:
-        #with open(filename, 'w') as file:
-            #file.write(data)
-        #return f"Data has been successfully written to {filename}"
-    #except IOError as e:
-        #return f"An error occurred while writing to the file: {e}"
-
 url = "https://fofa.info/result?qbase64=cmVnaW9uPSJHdWFuZ2RvbmciICYmIGNpdHk9Ikd1YW5nemhvdSIgJiYgc2VydmVyPSJ1ZHB4eSIg"
 class_name = "hsxa-host"
-filename = r"C:\Users\NAME\Desktop\new.txt"
-
 result = find_class_info(url, class_name)
-#new_ip_address_1 = first_class_info
-#new_ip_address_2 = second_class_info
-#new_ip_address_3 = third_class_info
-#if isinstance(result, tuple):
-    #first_class_info, second_class_info, third_class_info = result
-    #second_class_info = second_class_info.replace(" ", "").replace("\n", "")  # Remove all spaces and newlines
-    #third_class_info = third_class_info.replace(" ", "").replace("\n", "")  # Remove all spaces and newlines
-    #write_result = write_to_file(filename, f"{first_class_info}"+"\n"f"{second_class_info}"+"\n" +f"{third_class_info}")
-    #print(write_result)
-#else:
-    #print(result)
-##############
 
-#filename_new = r"C:\Users\NAME\Desktop\new.txt"
+with open(r"C:\Users\user\Desktop\old.m3u", 'r') as old:
+    old_lines = old.readlines()
+    if len(old_lines) >= 3:
+        old_ip_address_1 = old_lines[0].strip()
+        old_ip_address_2 = old_lines[1].strip()
+        old_ip_address_3 = old_lines[2].strip()
 
-#with open(filename_new, 'r') as file:
-    #lines = file.readlines()
-
-# 假设文件中有两行IP地址
-#if len(lines) >= 2:
-    #new_ip_address_1 = lines[0].strip()  # 第一行IP地址
-    #new_ip_address_2 = lines[1].strip()  # 第二行IP地址
-
-filename_old = r"C:\Users\user\Desktop\old.m3u"
-
-with open(filename_old, 'r') as file:
+with open(r"C:\Users\user\Desktop\TV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
-
-# 假设文件中有两行IP地址
-if len(lines) >= 3:
-    old_ip_address_1 = lines[0].strip()  # 第一行IP地址
-    old_ip_address_2 = lines[1].strip()  # 第二行IP地址
-    old_ip_address_3 = lines[2].strip()  # 第二行IP地址
-
-
-with open(r"C:\Users\user\Desktop\TV.m3u", 'r', encoding='utf-8') as old_file:
-    with open(r"C:\Users\user\Desktop\TV-new.m3u", 'w', encoding='utf-8') as new_file:
-        for line in old_file:
-            line = line.strip()  # 去除行尾换行符
+    with open(r"C:\Users\user\Desktop\TV.m3u", 'w', encoding='utf-8') as file:
+        for line in lines:
+            line = line.strip()
             if old_ip_address_1 in line:
                 line = line.replace(old_ip_address_1, first_class_info)
             if old_ip_address_2 in line:
                 line = line.replace(old_ip_address_2, second_class_info)
             if old_ip_address_3 in line:
                 line = line.replace(old_ip_address_3, third_class_info)
-            new_file.write(line + '\n')
-
-#with open(filename_old, 'w') as file:
-    #file.write(f"{new_ip_address_1}"+"\n" +f"{new_ip_address_2}")
+            file.write(line + '\n')
