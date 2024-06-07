@@ -1,8 +1,8 @@
-name: zb
+name: update new server IP
 
 on:
-  schedule:
-    - cron: '0 06,20 * * *'
+  #schedule:
+    #- cron: '0 06,20 * * *'
   push:
     branches:
       - main
@@ -21,10 +21,10 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet pypinyin
+        run: pip install requests BeautifulSoup4 
               
-      - name: Run ZB
-        run: python ${{ github.workspace }}/DXZB.py
+      - name: Run summary
+        run: python ${{ github.workspace }}/summary.py
 
       - name: 提交更改
         run: |
@@ -33,5 +33,4 @@ jobs:
           git add .
           git commit *.txt -m "Add generated file"
           git commit *.m3u -m "Add generated file"
-          #git pull --rebase
           git push -f
