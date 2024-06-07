@@ -1,11 +1,12 @@
 name: update new server ip
 
 on:
-  push:
+  #push:
+  schedule: 06
 
-jobs: capture new ip:
+jobs: capture new ip
   build:
-    runs-on: windows-lates
+    runs-on: windows-latest
 
     steps:
       - name: check out
@@ -17,18 +18,19 @@ jobs: capture new ip:
           python-version: 3.11
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet pypinyin
+        run: pip install requests BeautifulSoup4 
               
       - name: Read File
         run: |
           cat tv/old.m3u
+          cat tv/TV.m3u
 
       - name: 提交更改
         run: |
-          git config --local user.email "vjfchen@sina.com"
-          git config --local user.name "mlzlzj"
-          git add .
-          git commit *.txt -m "Add generated file"
-          git commit *.m3u -m "Add generated file"
+          #git config --local user.email "vjfchen@sina.com"
+          #git config --local user.name "mlzlzj"
+          #git add .
+          #git commit *.txt -m "Add generated file"
+          #git commit *.m3u -m "Add generated file"
           #git pull --rebase
-          git push -f
+          #git push -f
