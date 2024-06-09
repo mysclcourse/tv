@@ -1,36 +1,39 @@
-name: update new server ip
+name: Update M3U Files
 
 on:
-  #push:
-  schedule: 06
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 18 * * *'
 
-jobs: capture new ip
-  build:
-    runs-on: windows-latest
+jobs:
+  update_m3u_files:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: check out
-        uses: actions/checkout@v4
-    
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.11
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: pip install requests BeautifulSoup4 
-              
-      - name: Read File
-        run: |
-          cat tv/old.m3u
-          cat tv/TV.m3u
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
 
-      - name: 提交更改
-        run: |
-          #git config --local user.email "vjfchen@sina.com"
-          #git config --local user.name "mlzlzj"
-          #git add .
-          #git commit *.txt -m "Add generated file"
-          #git commit *.m3u -m "Add generated file"
-          #git pull --rebase
-          #git push -f
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Run Python script
+      run: python summary.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add old.m3u TV-new.m3u
+        git commit -m "Update M3U files"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
