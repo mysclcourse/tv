@@ -127,10 +127,10 @@ http://gs.jianghua.fun:8888/udp/239.77.0.173:5146
 http://ci.emdoor.tech:8080/touchtv.php?pk=1185
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生2
-http://106.111.233.200:8888/udp/239.77.0.225:5146
+http://14.145.225.21:8888/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生3
-http://106.111.233.200:8888/udp/239.77.0.225:5146
+http://14.145.225.21:8888/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教1
 http://ci.emdoor.tech:8080/touchtv.php?pk=1196
@@ -139,16 +139,16 @@ http://ci.emdoor.tech:8080/touchtv.php?pk=1196
 http://116.21.127.25:8888/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育1
-http://106.111.233.200:8888/udp/239.77.0.112:5146
+http://14.145.225.21:8888/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育2
-http://106.111.233.200:8888/rdp/239.77.0.112:5146
+http://14.145.225.21:8888/rdp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东频道",广东影视
-http://106.111.233.200:8888/udp/239.77.0.11:5146
+http://14.145.225.21:8888/udp/239.77.0.11:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东频道",广东影视
-http://106.111.233.200:8888/udp/239.77.0.9:5146
+http://14.145.225.21:8888/udp/239.77.0.9:5146
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台1
