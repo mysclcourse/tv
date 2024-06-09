@@ -51,9 +51,9 @@ with open("old.m3u", 'r') as old:
         old_ip_address_2 = old_lines[1].strip()
         old_ip_address_3 = old_lines[2].strip()
 
-with open("TV-new.m3u", 'r', encoding='utf-8') as file:
+with open("TV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
-    with open("TV-new.m3u", 'w', encoding='utf-8') as file:
+    with open("TV.m3u", 'w', encoding='utf-8') as file:
         for line in lines:
             line = line.strip()
             if old_ip_address_1 in line:
