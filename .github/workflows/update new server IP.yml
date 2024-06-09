@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add old.m3u TV-new.m3u
+        git add old.m3u TV.m3u
         git commit -m "Update M3U files"
         git push
       env:
