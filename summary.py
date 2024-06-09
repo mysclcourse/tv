@@ -18,14 +18,14 @@ url = "https://fofa.info/result?qbase64=cmVnaW9uPSJHdWFuZ2RvbmciICYmIGNpdHk9Ikd1
 class_name = "hsxa-host"
 result = find_class_info(url, class_name)
 
-with open(r"C:\Users\user\Desktop\old.m3u", 'r') as old:
+with open("old.m3u", 'r') as old:
     old_lines = old.readlines()
     if len(old_lines) >= 3:
         old_ip_address_1 = old_lines[0].strip()
         old_ip_address_2 = old_lines[1].strip()
         old_ip_address_3 = old_lines[2].strip()
 
-with open(r"C:\Users\user\Desktop\TV.m3u", 'r', encoding='utf-8') as file:
+with open("TV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
     with open(r"C:\Users\user\Desktop\TV.m3u", 'w', encoding='utf-8') as file:
         for line in lines:
@@ -37,3 +37,6 @@ with open(r"C:\Users\user\Desktop\TV.m3u", 'r', encoding='utf-8') as file:
             if old_ip_address_3 in line:
                 line = line.replace(old_ip_address_3, third_class_info)
             file.write(line + '\n')
+
+with open("old.m3u", 'w') as file:
+    file.write(f"{first_class_info}"+"\n" +f"{second_class_info}""\n" +f"{third_class_info}")
