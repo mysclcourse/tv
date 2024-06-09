@@ -1,7 +1,7 @@
 name: Update M3U Files
 
 on:
-  push:
+  #push:
     branches:
       - main
   schedule:
