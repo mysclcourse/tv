@@ -1,5 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
+#def find_class_info(url, class_name):
+#    global first_class_info, second_class_info, third_class_info
+#    try:
+#        response = requests.get(url)
+#        response.raise_for_status()  # Check for any errors in the HTTP response
+#        soup = BeautifulSoup(response.content, 'html.parser')
+#        class_elements = soup.find_all(class_=class_name)
+#        if len(class_elements) >= 3:
+#            first_class_info = class_elements[0].text.strip()  # Remove leading and trailing spaces or newlines
+#            second_class_info = class_elements[1].text.strip()  # Remove leading and trailing spaces or newlines
+#            third_class_info = class_elements[2].text.strip()  # Remove leading and trailing spaces or newlines
+#    except requests.RequestException as e:
+#        return f"An error occurred: {e}"
+
 def find_class_info(url, class_name):
     global first_class_info, second_class_info, third_class_info
     try:
@@ -7,10 +21,22 @@ def find_class_info(url, class_name):
         response.raise_for_status()  # Check for any errors in the HTTP response
         soup = BeautifulSoup(response.content, 'html.parser')
         class_elements = soup.find_all(class_=class_name)
-        if len(class_elements) >= 3:
-            first_class_info = class_elements[0].text.strip()  # Remove leading and trailing spaces or newlines
-            second_class_info = class_elements[1].text.strip()  # Remove leading and trailing spaces or newlines
-            third_class_info = class_elements[2].text.strip()  # Remove leading and trailing spaces or newlines
+        
+        # Extract text from the first 6 elements
+        class_texts = [element.text.strip() for element in class_elements[:6]]
+
+        # Remove duplicates by converting to a set, then back to a list
+        unique_texts = list(set(class_texts))
+
+        # If there are not enough unique elements, keep only the first 3
+        if len(unique_texts) < 3:
+            unique_texts = class_texts[:3]
+
+        # Assign the first 3 unique elements to the global variables
+        first_class_info = unique_texts[0] if len(unique_texts) > 0 else None
+        second_class_info = unique_texts[1] if len(unique_texts) > 1 else None
+        third_class_info = unique_texts[2] if len(unique_texts) > 2 else None
+
     except requests.RequestException as e:
         return f"An error occurred: {e}"
 
