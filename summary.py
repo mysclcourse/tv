@@ -130,9 +130,9 @@ with open("TV.m3u", 'r', encoding='utf-8') as file:
             if old_ip_address_3 in line:
                 line = line.replace(old_ip_address_3, class_info_sz)
             if old_ip_address_4 in line:
-                line = line.replace(old_ip_address_3, class_info_sc)
+                line = line.replace(old_ip_address_4, class_info_sc)
             if old_ip_address_5 in line:
-                line = line.replace(old_ip_address_3, class_info_fj)
+                line = line.replace(old_ip_address_5, class_info_fj)
             file.write(line + '\n')
 
 with open("old.m3u", 'w') as file:
