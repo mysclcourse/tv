@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'tv/summary.py'
+      - 'summary.py'
   schedule:
     - cron: '30 13 * * *'
 
