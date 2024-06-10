@@ -172,6 +172,7 @@ http://8.8.8.8:8000/rtp/239.77.0.167:5146
 http://ci.emdoor.tech:8080/touchtv.php?pk=1196
 
 
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台1
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
@@ -185,28 +186,16 @@ http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯1
-http://119.131.240.131:8000/udp/239.254.201.3:5227
+http://175.0.93.214:9000/udp/239.76.253.134:9000
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯2
-http://113.66.228.52:50000/udp/239.254.201.3:5227
-
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯3
-http://8.8.8.8:8000/udp/239.254.201.3:5227
-
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯4
-http://mail.petzhu.top:7000/udp/239.254.201.3:5227
+http://125.117.181.226:8888/rtp/233.50.200.192:5140
 
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文1
-http://119.131.240.131:8000/udp/233.50.200.191:5140
+http://175.0.93.214:9000/udp/239.76.253.135:9000
 
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文2
-http://113.66.228.52:50000/udp/233.50.200.191:5140
-
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文3
-http://8.8.8.8:8000/udp/233.50.200.191:5140
-
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文4
-http://mail.petzhu.top:7000/udp/233.50.200.191:5140
+http://125.117.181.226:8888/rtp/233.50.200.191:5140
 
 
 
