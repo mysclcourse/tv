@@ -174,13 +174,13 @@ http://ci.emdoor.tech:8080/touchtv.php?pk=1196
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台1
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台2
 http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻1
-http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
+http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻2
 http://live.cooltv.top/tv/tvb.php?id=0&hq
