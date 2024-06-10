@@ -3,7 +3,7 @@ name: Update M3U Files
 on:
   push:
     branches:
-      - main/summary.py
+      - main/tv/summary.py
   schedule:
     - cron: '30 13 * * *'
 
