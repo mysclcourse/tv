@@ -3,7 +3,7 @@ name: Update M3U Files
 on:
   push:
     paths:
-      - 'tv/summary.py'
+      - 'summary.py'
   schedule:
     - cron: '30 13 * * *'
 
