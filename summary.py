@@ -136,4 +136,4 @@ with open("TV.m3u", 'r', encoding='utf-8') as file:
             file.write(line + '\n')
 
 with open("old.m3u", 'w') as file:
-    file.write(f"{class_info_zh}" + "\n" + f"{class_info_gz}" + "\n" + f"{class_info_sz}" + "\n" + f"{class_info_sc}" + "\n" +f"{class_info_fj}")
+    file.write(f"{class_info_zh}" + "\n" + f"{class_info_gz}" + "\n" + f"{class_info_sz}" + "\n" + f"{class_info_sc}" + "\n" + f"{class_info_fj}")
