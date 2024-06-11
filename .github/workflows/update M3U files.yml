@@ -5,7 +5,7 @@ on:
     paths:
       - 'summary.py'
   schedule:
-    - cron: '30 13 * * *'
+    - cron: '30 4 * * *'
 
 jobs:
   update_m3u_files:
