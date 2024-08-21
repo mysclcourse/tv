@@ -94,7 +94,7 @@ http://106.110.45.11:4001/udp/239.77.0.9:5146
 http://121.32.204.50:9999/udp/239.77.0.9:5146
 
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道",广东大湾区卫视sz
-http://14.154.194.169:4022/udp/239.77.0.9:5146
+http://jt.zorua.cn:8787/udp/239.77.0.9:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江zh
 http://106.110.45.11:4001/udp/239.77.0.3:5146
@@ -103,7 +103,7 @@ http://106.110.45.11:4001/udp/239.77.0.3:5146
 http://121.32.204.50:9999/udp/239.77.0.3:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江sz
-http://14.154.194.169:4022/udp/239.77.0.3:5146
+http://jt.zorua.cn:8787/udp/239.77.0.3:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江url
 http://gs.jianghua.fun:8888/udp/239.77.0.1:5146
@@ -124,7 +124,7 @@ http://106.110.45.11:4001/udp/239.77.0.4:5146
 http://121.32.204.50:9999/rtp/239.77.0.4:5146
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东频道",广东新闻sz
-http://14.154.194.169:4022/rtp/239.77.0.4:5146
+http://jt.zorua.cn:8787/rtp/239.77.0.4:5146
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东频道",广东新闻url
 http://gs.jianghua.fun:8888/udp/239.77.0.173:5146
@@ -136,7 +136,7 @@ http://106.110.45.11:4001/udp/239.77.0.5:5146
 http://121.32.204.50:9999/udp/239.77.0.5:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生sz
-http://14.154.194.169:4022/udp/239.77.0.5:5146
+http://jt.zorua.cn:8787/udp/239.77.0.5:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生url
 http://gs.jianghua.fun:8888/udp/239.77.0.225:5146
@@ -148,7 +148,7 @@ http://106.110.45.11:4001/udp/239.77.0.6:5146
 http://121.32.204.50:9999/udp/239.77.0.6:5146
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育sz
-http://14.154.194.169:4022/udp/239.77.0.6:5146
+http://jt.zorua.cn:8787/udp/239.77.0.6:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东频道",广东影视zh
 http://106.110.45.11:4001/udp/239.77.0.11:5146
@@ -157,7 +157,7 @@ http://106.110.45.11:4001/udp/239.77.0.11:5146
 http://121.32.204.50:9999/udp/239.77.0.11:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东频道",广东影视sz
-http://14.154.194.169:4022/udp/239.77.0.11:5146
+http://jt.zorua.cn:8787/udp/239.77.0.11:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教zh
 http://106.110.45.11:4001/rtp/239.77.0.8:5146
@@ -166,7 +166,7 @@ http://106.110.45.11:4001/rtp/239.77.0.8:5146
 http://121.32.204.50:9999/rtp/239.77.0.8:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教sz
-http://14.154.194.169:4022/rtp/239.77.0.8:5146
+http://jt.zorua.cn:8787/rtp/239.77.0.8:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教url
 http://ci.emdoor.tech:8080/touchtv.php?pk=1196
@@ -178,7 +178,7 @@ http://106.110.45.11:4001/udp/239.253.43.67:5146
 http://121.32.204.50:9999/udp/239.253.43.67:5146
 
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道",广州新闻sz
-http://14.154.194.169:4022/udp/239.253.43.67:5146
+http://jt.zorua.cn:8787/udp/239.253.43.67:5146
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道",广州综合zh
 http://106.110.45.11:4001/udp/239.253.43.66:5146
@@ -187,7 +187,7 @@ http://106.110.45.11:4001/udp/239.253.43.66:5146
 http://121.32.204.50:9999/udp/239.253.43.66:5146
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道",广州综合sz
-http://14.154.194.169:4022/udp/239.253.43.66:5146
+http://jt.zorua.cn:8787/udp/239.253.43.66:5146
 
 
 
@@ -198,7 +198,7 @@ http://106.110.45.11:4001/udp/239.77.0.215:5146
 http://121.32.204.50:9999/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东高清频道",广东大湾区卫视高清sz
-http://14.154.194.169:4022/udp/239.77.0.215:5146
+http://jt.zorua.cn:8787/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东高清频道",广东珠江高清zh
 http://106.110.45.11:4001/udp/239.77.0.114:5146
@@ -207,7 +207,7 @@ http://106.110.45.11:4001/udp/239.77.0.114:5146
 http://121.32.204.50:9999/udp/239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东高清频道",广东珠江高清sz
-http://14.154.194.169:4022/udp/239.77.0.114:5146
+http://jt.zorua.cn:8787/udp/239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东高清频道",广东珠江高清url
 http://gs.jianghua.fun:8888/udp/239.77.0.1:5146
@@ -228,7 +228,7 @@ http://106.110.45.11:4001/udp/239.77.0.173:5146
 http://121.32.204.50:9999/rtp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东高清频道",广东新闻高清sz
-http://14.154.194.169:4022/rtp/239.77.0.173:5146
+http://jt.zorua.cn:8787/rtp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东高清频道",广东新闻高清url
 http://gs.jianghua.fun:8888/udp/239.77.0.173:5146
@@ -240,7 +240,7 @@ http://106.110.45.11:4001/udp/239.77.0.225:5146
 http://121.32.204.50:9999/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东高清频道",广东民生高清sz
-http://14.154.194.169:4022/udp/239.77.0.225:5146
+http://jt.zorua.cn:8787/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="广东公共" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东高清频道",广东民生高清url
 http://gs.jianghua.fun:8888/udp/239.77.0.225:5146
@@ -252,7 +252,7 @@ http://106.110.45.11:4001/udp/239.77.0.112:5146
 http://121.32.204.50:9999/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东高清频道",广东体育高清sz
-http://14.154.194.169:4022/udp/239.77.0.112:5146
+http://jt.zorua.cn:8787/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东高清频道",广东影视高清zh
 http://106.110.45.11:4001/udp/239.77.0.217:5146
@@ -261,7 +261,7 @@ http://106.110.45.11:4001/udp/239.77.0.217:5146
 http://121.32.204.50:9999/udp/239.77.0.217:5146
 
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东高清频道",广东影视高清sz
-http://14.154.194.169:4022/udp/239.77.0.217:5146
+http://jt.zorua.cn:8787/udp/239.77.0.217:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东高清频道",广东经济科教高清zh
 http://106.110.45.11:4001/rtp/239.77.0.167:5146
@@ -270,7 +270,7 @@ http://106.110.45.11:4001/rtp/239.77.0.167:5146
 http://121.32.204.50:9999/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东高清频道",广东经济科教高清sz
-http://14.154.194.169:4022/rtp/239.77.0.167:5146
+http://jt.zorua.cn:8787/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东高清频道",广东经济科教高清url
 http://ci.emdoor.tech:8080/touchtv.php?pk=1196
@@ -282,7 +282,7 @@ http://106.110.45.11:4001/udp/239.253.43.72:5146
 http://121.32.204.50:9999/udp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东高清频道",广州新闻高清sz
-http://14.154.194.169:4022/udp/239.253.43.72:5146
+http://jt.zorua.cn:8787/udp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东高清频道",广州综合高清zh
 http://106.110.45.11:4001/udp/239.253.43.71:5146
@@ -291,7 +291,7 @@ http://106.110.45.11:4001/udp/239.253.43.71:5146
 http://121.32.204.50:9999/udp/239.253.43.71:5146
 
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东高清频道",广州综合高清sz
-http://14.154.194.169:4022/udp/239.253.43.71:5146
+http://jt.zorua.cn:8787/udp/239.253.43.71:5146
 
 
 
