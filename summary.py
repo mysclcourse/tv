@@ -79,7 +79,7 @@ with open("TV.m3u", 'r', encoding='utf-8') as file:
                 line = line.replace(old_ip_address_sz, result_sz)
             file.write(line + '\n')
 
-#save new valid IP
+#save new valid IP 
 with open("old.m3u", 'w') as file:
 #    file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}" +"\n" + f"{result_fj}")
     file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n")
