@@ -14,7 +14,7 @@ def find_class_info(url, class_name):
             return f"No elements with class '{class_name}' found."
 
         for i, element in enumerate(class_elements):
-            if i <= 1:  # 遍历前10个元素
+            if i <= 9:  # 遍历前10个元素
                 code_response = test_url(element.text.strip())
                 if code_response == 200:
                     return element.text.strip()
