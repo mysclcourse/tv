@@ -88,7 +88,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道GZ",广东大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道GZ",广东大湾区卫视
 http://58.252.12.164:8000/udp/239.77.0.9:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道GZ",广东珠江
@@ -115,10 +115,10 @@ http://58.252.12.164:8000/rtp/239.77.0.8:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道GZ",广州新闻
 http://58.252.12.164:8000/udp/239.253.43.67:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道GZ",广州综合
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道GZ",广州综合台台
 http://58.252.12.164:8000/udp/239.253.43.66:5146
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道GZ",广东大湾区卫视高清
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道GZ",广东大湾区卫视高清
 http://58.252.12.164:8000/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道GZ",广东珠江高清
@@ -142,13 +142,13 @@ http://58.252.12.164:8000/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道GZ",广州新闻高清
 http://58.252.12.164:8000/udp/239.253.43.72:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道GZ",广州综合高清
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道GZ",广州综合台台高清
 http://58.252.12.164:8000/udp/239.253.43.71:5146
 
 
 
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道SZ",广东大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道SZ",广东大湾区卫视
 http://223.213.38.170:8888/udp/239.77.0.9:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道SZ",广东珠江
@@ -172,10 +172,10 @@ http://223.213.38.170:8888/rtp/239.77.0.8:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道SZ",广州新闻
 http://223.213.38.170:8888/udp/239.253.43.67:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道SZ",广州综合
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道SZ",广州综合台台
 http://223.213.38.170:8888/udp/239.253.43.66:5146
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道SZ",广东大湾区卫视高清
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道SZ",广东大湾区卫视高清
 http://223.213.38.170:8888/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道SZ",广东珠江高清
@@ -199,12 +199,12 @@ http://223.213.38.170:8888/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道SZ",广州新闻高清
 http://223.213.38.170:8888/udp/239.253.43.72:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道SZ",广州综合高清
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道SZ",广州综合台台高清
 http://223.213.38.170:8888/udp/239.253.43.71:5146
 
 
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道ZH",广东大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道ZH",广东大湾区卫视
 http://106.110.45.11:4001/udp/239.77.0.9:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道ZH",广东珠江
@@ -228,10 +228,10 @@ http://106.110.45.11:4001/rtp/239.77.0.8:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道ZH",广州新闻
 http://106.110.45.11:4001/udp/239.253.43.67:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道ZH",广州综合
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道ZH",广州综合台台
 http://106.110.45.11:4001/udp/239.253.43.66:5146
 
-#EXTINF:-1 tvg-id="南方卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道ZH",广东大湾区卫视高清
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道ZH",广东大湾区卫视高清
 http://106.110.45.11:4001/udp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道ZH",广东珠江高清
@@ -255,7 +255,7 @@ http://106.110.45.11:4001/rtp/239.77.0.167:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="广东频道ZH",广州新闻高清
 http://106.110.45.11:4001/udp/239.253.43.72:5146
 
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东频道ZH",广州综合高清
+#EXTINF:-1 tvg-id="广州综合台台" tvg-name="广州综合台台" tvg-logo="https://live.fanmingming.com/tv/广州综合台台.png" group-title="广东频道ZH",广州综合台台高清
 http://106.110.45.11:4001/udp/239.253.43.71:5146
 
 
@@ -267,10 +267,10 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",翡翠台2
 http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻1
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻1
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="香港无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻2
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",香港无线新闻2
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯1
@@ -298,8 +298,8 @@ http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC频道",CHC家庭影院
 http://gzly.hkychina.com:6003/udp/239.252.219.85:5140
 
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作影院" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC频道",CHC动作影院ipv6
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC频道",CHC动作电影
 http://gzly.hkychina.com:6003/udp/239.252.219.85:5140
 
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清影院" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="CHC频道",CHC高清影院
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="CHC频道",CHC高清电影
 http://gzly.hkychina.com:6003/udp/239.252.219.83:5140
