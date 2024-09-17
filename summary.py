@@ -109,9 +109,9 @@ if result_sc == None:
     result_sc = old_ip_address_sc
 
 # update new valid IP to TV file
-with open(r"C:\Users\lizon\Desktop\TV.m3u", 'r', encoding='utf-8') as file:
+with open("TV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
-    with open(r"C:\Users\lizon\Desktop\TV.m3u", 'w', encoding='utf-8') as file:
+    with open("TV.m3u", 'w', encoding='utf-8') as file:
         for line in lines:
             line = line.strip()
             if old_ip_address_zh in line:
@@ -125,6 +125,6 @@ with open(r"C:\Users\lizon\Desktop\TV.m3u", 'r', encoding='utf-8') as file:
             file.write(line + '\n')
 
 #save new valid IP
-with open(r"C:\Users\lizon\Desktop\old.m3u", 'w') as file:
+with open("old.m3u", 'w') as file:
 #    file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}" +"\n" + f"{result_fj}")
     file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}")
