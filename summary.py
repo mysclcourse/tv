@@ -123,6 +123,8 @@ with open("TV.m3u", 'r', encoding='utf-8') as file:
             if old_ip_address_sc in line:
                 line = line.replace(old_ip_address_sc, result_sc)
             file.write(line + '\n')
+            
+print (f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}")
 
 #save new valid IP
 with open("old.m3u", 'w') as file:
