@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import urllib.error
 
-MAX_ELEMENTS = 20  # 用常量替代魔法数字
+MAX_ELEMENTS = 20  # 用常量替代魔法数字 
 
 # capture IPs
 def find_class_info(url, class_name):
