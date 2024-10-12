@@ -73,7 +73,7 @@ url_fj = "https://fofa.info/result?qbase64=cmVnaW9uPSJGdWppYW4iICYmIHNlcnZlcj0id
 class_name = "hsxa-host"
 
 # capture old IP
-with open("old.m3u", 'r') as old:
+with open("rasold.m3u", 'r') as old:
     old_lines = old.readlines()
     if len(old_lines) >= 3:
         old_ip_address_zh = old_lines[0].strip()
@@ -109,9 +109,9 @@ if result_sc == None:
     result_sc = old_ip_address_sc
 
 # update new valid IP to TV file
-with open("TV.m3u", 'r', encoding='utf-8') as file:
+with open("rasTV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
-    with open("TV.m3u", 'w', encoding='utf-8') as file:
+    with open("rasTV.m3u", 'w', encoding='utf-8') as file:
         for line in lines:
             line = line.strip()
             if old_ip_address_zh in line:
@@ -127,6 +127,6 @@ with open("TV.m3u", 'r', encoding='utf-8') as file:
 print (f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}")
 
 #save new valid IP
-with open("old.m3u", 'w') as file:
+with open("rasold.m3u", 'w') as file:
 #    file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}" +"\n" + f"{result_fj}")
     file.write(f"{result_zh}" + "\n" + f"{result_gz}"+"\n" + f"{result_sz}"+"\n" + f"{result_sc}")
