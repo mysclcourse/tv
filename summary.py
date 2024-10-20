@@ -108,7 +108,7 @@ if result_sz == None:
 if result_sc == None:
     result_sc = old_ip_address_sc
 
-# update new valid IP to TV file 
+# update new valid IP to TV file
 with open("rasTV.m3u", 'r', encoding='utf-8') as file:
     lines = file.readlines()
     with open("rasTV.m3u", 'w', encoding='utf-8') as file:
