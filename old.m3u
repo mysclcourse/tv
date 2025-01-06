@@ -1,4 +1,4 @@
 No elements with class 'hsxa-host' found.
-113.111.17.249:8888
-113.90.245.73:4000
-119.5.221.38:8000
+An error occurred: HTTPSConnectionPool(host='fofa.info', port=443): Max retries exceeded with url: /result?qbase64=cmVnaW9uPSJHdWFuZ2RvbmciICYmIGNpdHk9Ikd1YW5nemhvdSIgJiYgc2VydmVyPSJ1ZHB4eSIg&page=1&page_size=20 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x75be9970>, 'Connection to fofa.info timed out. (connect timeout=None)'))
+113.90.236.168:8888
+101.204.123.57:8888
