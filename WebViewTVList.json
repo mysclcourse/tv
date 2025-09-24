@@ -4,244 +4,137 @@
 		"text": "央视频道",
 		"children": [
 			{
-				"text": "CCTV2",
+				"text": "CCTV1",
 				"url": [
 					"https://tv.cctv.com/live/cctv1/",
 					"https://www.yangshipin.cn/tv/home?pid=600001859"
 				]
-			}
-		]
-	},
-    {
-		"id": "2",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV2",
 				"url": [
 					"https://tv.cctv.com/live/cctv2/",
 					"https://www.yangshipin.cn/tv/home?pid=600001800"
 				]
-			}
-		]
-	},
-    {
-		"id": "3",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV3",
 				"url": [
 					"https://tv.cctv.com/live/cctv3/",
 					"https://www.yangshipin.cn/tv/home?pid=600001801"
 				]
-			}
-		]
-	},
-    {
-		"id": "4",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV4",
 				"url": [
 					"https://tv.cctv.com/live/cctv4/",
 					"https://www.yangshipin.cn/tv/home?pid=600001814"
 				]
-			}
-		]
-	},
-    {
-		"id": "5",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV5",
 				"url": [
 					"https://tv.cctv.com/live/cctv5/",
 					"https://www.yangshipin.cn/tv/home?pid=600001818"
 				]
-			}
-		]
-	},
-    {
-		"id": "6",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV6",
 				"url": [
 					"https://tv.cctv.com/live/cctv6/",
 					"https://www.yangshipin.cn/tv/home?pid=600108442"
 				]
-			}
-		]
-	},
-    {
-		"id": "7",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV7",
 				"url": [
 					"https://tv.cctv.com/live/cctv7/",
 					"https://www.yangshipin.cn/tv/home?pid=600004092"
 				]
-			}
-		]
-	},
-    {
-		"id": "8",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV8",
 				"url": [
 					"https://tv.cctv.com/live/cctv8/",
 					"https://www.yangshipin.cn/tv/home?pid=600001803"
 				]
-			}
-		]
-	},
-    {
-		"id": "9",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV9",
 				"url": [
 					"https://tv.cctv.com/live/cctv9/",
 					"https://www.yangshipin.cn/tv/home?pid=600004078"
 				]
-			}
-		]
-	},
-    {
-		"id": "10",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV10",
 				"url": [
 					"https://tv.cctv.com/live/cctv10/",
 					"https://www.yangshipin.cn/tv/home?pid=600001805"
 				]
-			}
-		]
-	},
-    {
-		"id": "11",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV11",
 				"url": [
 					"https://tv.cctv.com/live/cctv11/",
 					"https://www.yangshipin.cn/tv/home?pid=600001806"
 				]
-			}
-		]
-	},
-    {
-		"id": "12",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV12",
 				"url": [
 					"https://tv.cctv.com/live/cctv12/",
 					"https://www.yangshipin.cn/tv/home?pid=600001807"
 				]
-			}
-		]
-	},
-    {
-		"id": "13",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV13",
 				"url": [
 					"https://tv.cctv.com/live/cctv13/",
 					"https://www.yangshipin.cn/tv/home?pid=600001811"
 				]
-			}
-		]
-	},
-    {
-		"id": "14",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV14",
 				"url": [
 					"https://tv.cctv.com/live/cctv14/",
 					"https://www.yangshipin.cn/tv/home?pid=600001809"
 				]
-			}
-		]
-	},
-    {
-		"id": "15",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV15",
 				"url": [
 					"https://tv.cctv.com/live/cctv15/",
 					"https://www.yangshipin.cn/tv/home?pid=600001815"
 				]
-			}
-		]
-	},
-    {
-		"id": "16",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV16",
 				"url": [
 					"https://tv.cctv.com/live/cctv16/",
 					"https://www.yangshipin.cn/tv/home?pid=600098637"
 				]
-			}
-		]
-	},
-    {
-		"id": "17",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV17",
 				"url": [
 					"https://tv.cctv.com/live/cctv17/",
 					"https://www.yangshipin.cn/tv/home?pid=600001810"
 				]
-			}
-		]
-	},
-    {
-		"id": "18",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV4K",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600002264"
-			}
-		]
-	},
-    {
-		"id": "19",
-		"text": "央视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "CCTV8K",
 				"url": "https://www.yangshipin.cn/tv/home?pid=600156816"
 			}
+
 		]
 	},
-	{
-		"id": "20",
+    {
+		"id": "2",
 		"text": "广东频道",
 		"children": [
 			{
@@ -250,110 +143,62 @@
                 "https://www.gdtv.cn/tvChannelDetail/43",
                 "https://yangshipin.cn/tv/home?pid=600002485"
                 ]
-			}
-		]
-	},
-    {
-		"id": "21",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东珠江",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/44",
                 "https://iptv345.com/?act=play&token=06187fe5b629825aa3e2a7ae3c9ab1bf&tid=itv&id=5"
                 ]
-			}
-		]
-	},
-    {
-		"id": "22",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东新闻",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/45",
                 "https://iptv345.com/?act=play&token=05232f12fc80f1b318185143c8de90bc&tid=itv&id=85"
                 ]
-			}
-		]
-	},
-    {
-		"id": "23",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东民生",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/48",
                 "https://iptv345.com/?act=play&token=181cb9040f91bd86c7dbe3ece9a587c3&tid=itv&id=86"
                 ]
-			}
-		]
-	},
-    {
-		"id": "24",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东体育",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/47",
                 "https://iptv345.com/?act=play&token=30fa7b58e881216ed07f52e36443fe19&tid=itv&id=4"
                 ]
-			}
-		]
-	},
-    {
-		"id": "25",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "大湾区卫视",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/51",
                 "https://www.gdtv.cn/tvChannelDetail/46",
                 "https://iptv345.com/?act=play&token=b294e877e8129a72cb1d3b004cfc2c10&tid=itv&id=72"
                 ]
-			}
-		]
-	},
-    {
-		"id": "26",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东影视",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/53",
                 "https://iptv345.com/?act=play&token=d46157d0999980f83d07e0554d7b3486&tid=itv&id=93"
                 ]
-			}
-		]
-	},
-    {
-		"id": "27",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广东4K超高清",
 				"url": "https://www.gdtv.cn/tvChannelDetail/16"
-			}
-		]
-	},
-    {
-		"id": "28",
-		"text": "广东频道",
-		"children": [
-			{
+			},
+            {
 				"text": "广州新闻",
 				"url": "https://iptv345.com/?act=play&token=adeb56d051d108f2462015938ebef300&tid=itv&id=99"
 			}
 		]
 	},
-	{
-		"id": "29",
+    {
+		"id": "3",
 		"text": "卫视频道",
 		"children": [
 			{
@@ -362,27 +207,15 @@
                 "http://tv.haoqu99.com/4/fhzw.html",
                 "http://www.66zhibow.com/4/fhzw.html"
                 ]
-			}
-		]
-	},
-    {
-		"id": "30",
-		"text": "卫视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "凤凰卫视咨询台",
 				"url": [
                 "http://tv.haoqu99.com/4/fhzx.html",
                 "http://www.66zhibow.com/4/fhzx.html"
                 ]
-			}
-		]
-	},
-    {
-		"id": "31",
-		"text": "卫视频道",
-		"children": [
-			{
+			},
+            {
 				"text": "凤凰卫视香港台",
 				"url": [
                 "http://tv.haoqu99.com/4/fhzx.html",
@@ -392,7 +225,7 @@
 		]
 	},
 	{
-		"id": "50",
+		"id": "5",
 		"text": "动漫剧场",
 		"children": [
 			{
@@ -415,7 +248,7 @@
 		]
 	},
 	{
-		"id": "60",
+		"id": "6",
 		"text": "其他直播",
 		"children": [
 			{
