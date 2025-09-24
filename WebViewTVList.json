@@ -226,9 +226,7 @@
 		"children": [
 			{
 				"text": "CCTV4K",
-				"url": [
-					"https://www.yangshipin.cn/tv/home?pid=600002264"
-				]
+				"url": "https://www.yangshipin.cn/tv/home?pid=600002264"
 			}
 		]
 	},
@@ -238,9 +236,7 @@
 		"children": [
 			{
 				"text": "CCTV8K",
-				"url": [
-					"https://www.yangshipin.cn/tv/home?pid=600156816"
-				]
+				"url": "https://www.yangshipin.cn/tv/home?pid=600156816"
 			}
 		]
 	},
@@ -342,10 +338,7 @@
 		"children": [
 			{
 				"text": "广东4K超高清",
-				"url": 
-                "https://www.gdtv.cn/tvChannelDetail/16"
-                
-                
+				"url": "https://www.gdtv.cn/tvChannelDetail/16"
 			}
 		]
 	},
@@ -355,10 +348,7 @@
 		"children": [
 			{
 				"text": "广州新闻",
-				"url": 
-                "https://iptv345.com/?act=play&token=adeb56d051d108f2462015938ebef300&tid=itv&id=99"
-                
-                
+				"url": "https://iptv345.com/?act=play&token=adeb56d051d108f2462015938ebef300&tid=itv&id=99"
 			}
 		]
 	},
