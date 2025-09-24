@@ -313,7 +313,7 @@
 				"text": "大湾区卫视",
 				"url": [
                 "https://www.gdtv.cn/tvChannelDetail/51",
-                "https://www.gdtv.cn/tvChannelDetail/46"
+                "https://www.gdtv.cn/tvChannelDetail/46",
                 "https://iptv345.com/?act=play&token=b294e877e8129a72cb1d3b004cfc2c10&tid=itv&id=72"
                 ]
 			}
@@ -352,8 +352,6 @@
 			}
 		]
 	},
-    
-
 	{
 		"id": "29",
 		"text": "卫视频道",
